@@ -1,0 +1,78 @@
+Fase Preliminar
+-----------------
+Paso 1
+Definicion de Empresa
+Para togaf, una empresa es un conjunto de organizaciones
+
+Definir que area va a ser
+Definir quien va a ser el sponsor
+
+Arquitecto pregunta a sponsor
+
+Paso 2
+Definir la linea base de la arquitectura
+Definir las habilidades y capacidades de la empresa 
+
+de acuerdo a esto sabemos que tenemos y a que podemos aspirar}
+
+Paso 3
+
+
+*Que cosa define un principio
+-------------------------------------------------------------------
+
+1.A
+2.B
+3.B
+4.C
+5.D
+6.E
+7.E
+8.B*
+9.D*
+10.E
+11.
+12.E
+13.E
+14.S
+
+--------------------------------------------------------------------
+core - los que piden el cambio y conocen el impacto y obtienen un beneficio
+soft - los que no pidieron el cambio y son fuertemente impactados
+extend - los terceron (otras empresas) que no saben del cambio y ni lo pidieron pero son impactadas de taquito
+
+123456*abc
+
+Funciones de Comite de Arq Empresarial
+que proyectos necesitan hacer arquitectura
+Revisar que es lo que el negocio quiere alcanzarver las posibles soluiciones que se le pueden plantear para cubrir esa necesidad
+se elige y se hace un diseño
+luego cuando se empieza la construccion se debe supervizar que se cumpla
+
+El pety es imput para la fase de fase preliminar
+lo que se busca mas del pety es conocer los proyectos mas grandes y agarrarlos y ver cuales pueden ser alineados a la estrategia
+
+=========================================================================
+
+El mundo esta dividido en:
+
+ - TRX: si puedo hacer Commit o Roollback, duran mseg segs
+ - PROCESOS tienn una frecuencia,. un disparador, duran min,dias, horas, semanas
+
+
+las tareas tienen procedimien-tos
+en bizagui van tareas no pasos de un procedimientos para modelar un proceso                                                                                                   
+
+ 
+En BPMN una actividad es una tarea o un subproceso, no es una TRX
+
+
+
+
+
+
+
+
+
+
+
