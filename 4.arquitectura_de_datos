@@ -1,0 +1,37 @@
+Arquitectura de Datos
+
+Desarrollar Arquitectura de Datos Destino
+
+Enfoque
+------------------
+1.Gestion de datos
+Manejar reportes de una mejor manera, Los mas comunes generarlos en la mañana y colgarlos en un portal para que sean descargados
+
+Definir standares para datos
+
+Saber la finalidad de los datos donde y cuando se crean actualizan o borran los datos
+
+2.Migracion de los datos
+Se debe colocar los rq de migracion
+Debe haber un plan de migracion
+Se hace el contrato de servicio, donde se define donde se va a consultar los datos, y como van a ser consultados, la estructura.
+Esto se hace para mantener la interoperabilidad intrinsica de los servicios
+
+Esto se trabaja para microservicios, ya que todos deben conocer el mismo idioma
+
+WSDL - Servicio SOA
+XSD - Son estructuras de datos
+Arroz con mango
+
+Pasos
+-----------------
+1- Seleecionar los modelos de referencia aplicables puinto de vista y heramientas
+
+Es remomendable no usar el principio de que el dato es confible (ya que regularmente no debemos hacernois responsable de esa data que nosotros no generamos)
+
+2. Desarrollar linea base
+3.Desarrollar futuro
+4.Analisis de GAP
+5.Definir proyectos que cubran mas de una capasidad de los dominios de NDAT
+esto se hace en la fase E
+
