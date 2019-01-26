@@ -3,3 +3,55 @@ Arquitectura de Aplicaciones
 
 En el diagrama se debe ver que servicios son altamente rehutilizables
 
+Artefactos
+Disgrama de Migracion de Aplicaciones
+El proyecto debe cumplir lo que el stakeholder quiere como arquitectura
+
+Diagrama de Ingenieria de Software
+UML
+
+Diagrama de Casos de Usos
+Son requerimientos funcionales (funcionabilidad de Negocio) Los funcionales se enfocan mas aqui
+Son requerimientos NO funcionales (NO de Negocvio x ejmemplo Seguridad, Tiempo de Respuesta) Los arquitectos se enfocan mas aqui
+
+Si RNF hay un RQ que dice rapido, se debe preguntar cuanto es rapido p'ara el usuario, y ese tiempo es en RQ en si
+
+Se debe medir el tiempo de todo el proceso.
+Venta bde un celular, debe ser 3 min x ejemplo
+Todo el flujo de pantallas qe involucra la venta debe durar 3 min
+pero si una pantalla demora 15 seg y aun asi estas en los 3 min, se debe mejorar la experiencia de usuario
+
+RNF Escalable
+Como escala verticalmente un recurso
+
+Tecnologia
+Vertical
+Se crece en recursos en un solo servidor
+Horizontal
+Se crece en mas servidores
+
+Servicios
+Horizontal
+Se crece creando otras instancias del servicio
+Vertical
+Se realiza en el tiempo de diseño
+Se puede usar el SOA UI para probar y sacar las curvas
+
+concurrencia
+|
+|
+|
+|__________________ Tiempos de Respuesta
+
+Los software deben ser construidos a perspectivas futuras
+No a perspectivas actuales
+
+Se debe tener cuidado con los tiempos que te da el negocio
+
+Los artefactos se deben se elegir de acuerdo a los que cubran las necesidades de los stakeholder
+
+
+
+
+
+
