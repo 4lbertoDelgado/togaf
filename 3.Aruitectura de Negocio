@@ -1,0 +1,45 @@
+Arquitectura de Negocio
+---------------------------
+
+8-Resolver impactos a travez del panorama de arquitectura
+
+los proyectos importantes tienen que salir si o si
+
+9-Realizar una revicion formal con los interesados
+
+Cambiar el alcance lo hace el stakeholder no el arquitecto
+La propuesta en base al alcance si puede ser realizada por el arquitecto
+
+10-Finalizar la arquitectura del Negocio
+
+Definir cuando se va a usar servicios, en base en SOA o REST
+Cuales bloques construidos se pueden rehutilizar y van a estar en el repositorio de arquitectura
+
+INPUT
+Declaraqcion aprovada de Arquitectura
+Conviene que el stakeholder conozca bien y se le explique bien para que apruebe sabiendo
+porque elñl sabe algunas cosas que tu no sabes, y si el no conoce lo que tu le explicas, el no te pude alertar sobre algo malo en tu diseño
+
+OUTPUT
+Arquitectura basica (base) del negocio (detallada) si corrsponde (quiere decir que solo hasta que se entienda - Como un proceso ASIS)
+Aquitectura de negocio de destino (detallada)
+
+Proceso ASIS coomo ya existe y funciona en la empresa, se diagrama hasta que se entiende porque ya se conoce y se va a desechar por la nueva
+Proceso TOBE como no se sabe como se va a hacer debe ser detallada
+
+Matriz de Interaccion Empresarial
+Es mejor hacerla como un
+Diagrama de Interaccion Empresarial
+
+------------------------------
+
+Analisis de Brecha
+
+------------------------------
+
+No usar diagrama de evenmtos
+El profe no usa
+
+
+
+------------------------------
