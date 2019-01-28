@@ -31,3 +31,24 @@ los FCT estan ligados a los KPI
 Los paquetes de trabajos van a servir para identificar proyectos
 que estaran en el plan de implementacion y migracion
 
+Se debe tener en cuenta que lños recursos asignados a los proyectos no pasen el 100%
+
+Priorizar BBS (building block solution) que pueden ser rehusados 
+P1 bb1 bb2 
+P2 bb1 bb3
+P3 bb1 bb3
+
+bb1 se repite en los 3 proyectos
+bb1 ---> Repositorio
+
+Green fill - BigBang - x Incrementos
+                  
+                  --- Queda
+                  |
+Los BBS se pueden --- Cambiar
+                  |
+                  --- Eliminar
+                  
+                  --- Construir
+                  
+
