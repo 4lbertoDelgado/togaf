@@ -1,0 +1,42 @@
+Gobierno de la arquitectura empresarial
+
+FASE G
+
+Gobierno de la implementacion
+Es un enfoque, una implemntacion que asegurar la integridad
+
+SLA Service level agrement
+OLA Operation level agrement
+
+El gobierno requiere de procesos
+
+Las capacidades estan dadas por las personas
+
+Objetivos
+- Asegurar que amos a llegar a esa arquitectura de destino
+- La mayoria de errores se da en la ejecucion
+- Realizar las fuciones propias
+
+Pasos
+
+Contrato de Arquitectura
+Acuerdo entre el sponsor y los provedores
+se definen entragables y la calidad
+y si se ajusta a la arquitectura
+
+La calidad esta asociada a pruebas funcionales
+Se mide con las pruebas de test y pruebas de humo (donde se prueba las cosdas principales)
+La marcha blanca es como una semana y en una sola sede
+
+Si el tiempo del proyecto se demora es culpa del gobierno?
+No, es del jefe de proyecto, caballero nomas, debes de ajustar la hoja de ruta
+
+2 tipos de proveedoires
+1 - que el provedor me da la solucion y tiene todo mi know how, me domina
+2- el proveedor que yo le doy mis lineamientos de trabajo y ai yo lo domino
+
+las excepciones solo se deben de aprobar siempre y cuando exista un plan de adecuacion para retornar a la alineacion
+                   ----
+       Excepcion /      \ Plan de adecuacion
+*------------------------------------------------>*
+
