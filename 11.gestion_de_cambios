@@ -1,0 +1,26 @@
+Gestion de Cambios
+
+Objetivos
+Asegura los requisitos, le importa mas el fondo ue la forma que mas le importa a l fase de gobierno
+
+gobirno asegura que lo nque tu estas haciendo como proyecto me va a llevar a mi arquitectura final
+
+s segundos
+m minutos
+h horas
+d dias
+S semanas
+M meses
+
+Niveles para diagramar
+En el Archi solo puedes llegar a proceso - subproceso - (pero no tarea)
+En el bizagi solo puedes llegar a proceso - subproceso - tarea - (pero no procedimiento)
+En el Visio solo puedes llegar a proceso - subproceso - tarea - procedimiento
+Visio o Texto
+
+
+En bizagi se puede diagramar plasmando tarea tras tarea (metodo flat)
+En bizagi se puede diagramar planmando tareas agrupadas en subprocesos (metodo jerarquico)
+
+
+
