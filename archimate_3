@@ -1,0 +1,52 @@
+Archimate
+----------
+
+Es una especificacion un lenguaje para arquitectura empresarial, en particular para togaf
+
+Define elementos, conectores, para que se puedan generar diagramas por las fases que togaf define
+
+Lo maneja el Open Group
+
+Es un standar, mas usado para togaf
+simple, alto nivel, soportado por varias herramientas y alineado al 99% al togaf
+
+Es hasta cierto punto compatible con SOA
+
+Uso
+Se puede colocar el concepto de una solucion(partes - metas que se quiere tener)
+Para hacer el modelo de app y datos
+Para comunicacion de rq y soluciones
+Para darme cuenta del impacto de los cambios(se puede traer a la vida lo que no se puede mirar)
+
+3 clasificaciones
+Negocio Amarillo
+Aplicacion Azul
+Tecnologia Verde
+
+M motivacion (es el porque, el porque lo hacemos, el porque es la mision vision, estrategia, objetivos, metas)
+Esto debe existir en los planes de empresa. el AE genera el diagrama, pero la motivacion ya debe existir previamente
+
+
+S estrategia
+
+
+Elementos de Negocio
+Funciones
+Capacidades especificas, mas acotadas, un proceso pued tener varias funciones de negocio
+Evento
+Es algo que dispara un proceso
+Servicio
+Algo que va a servir, mediante una interface
+Objeto
+Puede ser una poliza, un reclamo
+Contrato
+Un documento que implica un acuerdo con ciertas obligaciones
+Producto
+Seguro de auto, tiene como objeto de negocio un poliza
+Tiene una relacion de agregacion, mas no de composicion.
+Agregacion, suma mas caracteristicas
+
+
+
+
+
