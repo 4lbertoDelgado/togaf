@@ -1,0 +1,32 @@
+Puede ser instanciada desde todas las fases
+
+Se deben de evaluar los rq
+
+Los rq pueden ser funcionales y no funcionales
+
+Consideraciones:
+-restricciones
+-supuestos
+
+Objetivos
+-asegurar el funcionamiento de todas las fases
+-asegurar la disponibilidad de los requerimientos
+
+los rq de la a - d deben ser aceptados, ya que no se tiene aun la arquiteectura futura
+En las 3 primeras fases se deben juntar los rq
+
+El encargado de gestionar los rq:
+si estoy en la etapa de aplicacion(AE + AA) y sale un rq de negocio, vulvo a la etapa de negocio(AE + AN)
+PAra saber si estoy en la fase de aplicacion, me doy cuenta si un rq afecta a la fase de tecnologia (AE + AT)
+
+Togaf te da las pautas para que puedas gestionar los rq, pero te da a tu libre eleccion la herramienta a usar
+
+En otra fase es donde se identifican y se documentan los rq
+
+loa contratos son firmados entre el sponsor y los provedores
+si hay cambios en la arquitectura, estos deben ser agregados al contratos como un anexo
+
+Un asestment es una prueba para evaluar tu estado actual y dar recomendaciones en base a ese estado
+
+
+
