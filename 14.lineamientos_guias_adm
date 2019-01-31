@@ -12,10 +12,43 @@ Tecnicas
 -los valores son un conjunto de principios pero algunos no son principios 
 -los valores pueden cambiar
 
-
-
-Bloques de construccion
+2.Bloques de construccion
 Paqute o funcionabilidad definida para satisfacer las necesidades del negocio en la organizacion
 son modelos
 se definen pricipálmente en las fases abcd
-en base a los bba 
+en base a los bba se arman los bbs
+los bbs forman parte del contrato de arquitectura
+
+3.Analisis de brechas
+      AppX AppY Servicios Eliminados
+AppA
+AppB
+AppC
+Servicios Nuevos
+
+4.Gestion de Riesgos,
+Los riesgos se identifican, se clasifican y se mitigan
+Niveles de Riesgo:
+Inicial: antes de aplicar la mitigacion
+Residual: despues de aplicar mitigacion
+Freciencia de Riesgo:
+1-frecuente: de todas maneras pasa y muchas veces
+2-probable: de todas maneras pasa y varias veces
+5-poco probable: 99% NO va a pasar
+3-ocacional: algunas veces
+4-exporadico: maximo una vez
+
+Niveles de competencia de TOGAF
+
+Los esenarios de negocio sirven para identificar 
+
+Junta de Arquitextura
+Junta corporativa
+
+Si JC define los objetivos, la JA no puede ir a cambiarlos
+
+
+
+
+
+
